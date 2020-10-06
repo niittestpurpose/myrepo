@@ -1,0 +1,8 @@
+This is a new file which will basically shows the programs of Looping
+
+1. Write a Program to display 1 to 10.
+
+2. Write a Program to display the factorial of a given number.
+
+3. Write a program to display the content from 1 to that number.
+
